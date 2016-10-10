@@ -1,0 +1,202 @@
+
+Pinging DRTQN1PPLREAS01.infosolco.net [10.208.46.20] with 32 bytes of data:
+Reply from 10.208.46.20: bytes=32 time=31ms TTL=59
+
+Ping statistics for 10.208.46.20:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging DRTQN1PDMONGO03.infosolco.net [10.215.78.57] with 32 bytes of data:
+Reply from 10.215.78.57: bytes=32 time=31ms TTL=60
+
+Ping statistics for 10.215.78.57:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+Ping request could not find host DRTQN1PPSQLSE01. Please check the name and try again.
+Ping request could not find host DRTQN1PPSQLSE02. Please check the name and try again.
+
+Pinging DRTQN1PDDIONE01.infosolco.net [10.208.64.42] with 32 bytes of data:
+Reply from 10.208.64.42: bytes=32 time=32ms TTL=60
+
+Ping statistics for 10.208.64.42:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDMONGO02.infosolco.net [10.215.78.58] with 32 bytes of data:
+Reply from 10.215.78.58: bytes=32 time=32ms TTL=60
+
+Ping statistics for 10.215.78.58:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDTITAN01.infosolco.net [10.214.18.35] with 32 bytes of data:
+Reply from 10.214.18.35: bytes=32 time=32ms TTL=61
+
+Ping statistics for 10.214.18.35:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDSRVGP02.infosolco.net [10.215.78.54] with 32 bytes of data:
+Reply from 10.215.78.54: bytes=32 time=32ms TTL=60
+
+Ping statistics for 10.215.78.54:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDSRVGP04.infosolco.net [10.215.78.48] with 32 bytes of data:
+Reply from 10.215.78.48: bytes=32 time=32ms TTL=60
+
+Ping statistics for 10.215.78.48:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDSRHEA01.infosolco.net [10.215.78.26] with 32 bytes of data:
+Reply from 10.215.78.26: bytes=32 time=32ms TTL=60
+
+Ping statistics for 10.215.78.26:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PPWSWLP01.infosolco.net [10.208.46.21] with 32 bytes of data:
+Reply from 10.208.46.21: bytes=32 time=32ms TTL=59
+
+Ping statistics for 10.208.46.21:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDFCRGP01.infosolco.net [10.212.35.25] with 32 bytes of data:
+Reply from 10.212.35.25: bytes=32 time=31ms TTL=61
+
+Ping statistics for 10.212.35.25:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging DRTQN1PPLREAS02.infosolco.net [10.208.46.23] with 32 bytes of data:
+Reply from 10.208.46.23: bytes=32 time=32ms TTL=59
+
+Ping statistics for 10.208.46.23:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDSRVGP03.infosolco.net [10.215.78.47] with 32 bytes of data:
+Reply from 10.215.78.47: bytes=32 time=32ms TTL=60
+
+Ping statistics for 10.215.78.47:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDSRVGM01.infosolco.net [10.215.78.45] with 32 bytes of data:
+Reply from 10.215.78.45: bytes=32 time=32ms TTL=60
+
+Ping statistics for 10.215.78.45:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDMONGO01.infosolco.net [10.215.78.59] with 32 bytes of data:
+Reply from 10.215.78.59: bytes=32 time=31ms TTL=60
+
+Ping statistics for 10.215.78.59:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging drtqn1pdfcrgp03.infosolco.net [10.212.35.27] with 32 bytes of data:
+Reply from 10.212.35.27: bytes=32 time=31ms TTL=61
+
+Ping statistics for 10.212.35.27:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging DRTQN1PDFCRGP04.infosolco.net [10.212.35.28] with 32 bytes of data:
+Reply from 10.212.35.28: bytes=32 time=32ms TTL=61
+
+Ping statistics for 10.212.35.28:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PPWIKDB01.infosolco.com [10.215.78.153] with 32 bytes of data:
+Reply from 10.215.78.153: bytes=32 time=32ms TTL=124
+
+Ping statistics for 10.215.78.153:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDMONGO04.infosolco.net [10.212.35.20] with 32 bytes of data:
+Reply from 10.212.35.20: bytes=32 time=31ms TTL=61
+
+Ping statistics for 10.212.35.20:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging DRTQN1PDMONGO05.infosolco.net [10.212.35.21] with 32 bytes of data:
+Reply from 10.212.35.21: bytes=32 time=32ms TTL=61
+
+Ping statistics for 10.212.35.21:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDMONGO06.infosolco.net [10.212.35.22] with 32 bytes of data:
+Reply from 10.212.35.22: bytes=32 time=32ms TTL=61
+
+Ping statistics for 10.212.35.22:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDMONGO08.infosolco.net [10.212.35.24] with 32 bytes of data:
+Reply from 10.212.35.24: bytes=32 time=32ms TTL=61
+
+Ping statistics for 10.212.35.24:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PDMONGO07.infosolco.net [10.212.35.23] with 32 bytes of data:
+Reply from 10.212.35.23: bytes=32 time=31ms TTL=61
+
+Ping statistics for 10.212.35.23:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging DRTQN1PDFCRGP02.infosolco.net [10.212.35.26] with 32 bytes of data:
+Reply from 10.212.35.26: bytes=32 time=31ms TTL=61
+
+Ping statistics for 10.212.35.26:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging DRTQN1PDSRVGP01.infosolco.net [10.215.78.70] with 32 bytes of data:
+Reply from 10.215.78.70: bytes=32 time=32ms TTL=60
+
+Ping statistics for 10.215.78.70:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DRTQN1PTLREAS01.infosolco.net [10.215.78.90] with 32 bytes of data:
+Reply from 10.215.78.90: bytes=32 time=32ms TTL=60
+
+Ping statistics for 10.215.78.90:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
